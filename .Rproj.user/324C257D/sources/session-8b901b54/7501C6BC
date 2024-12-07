@@ -1,28 +1,27 @@
 {
-    "id": "11CEBC28",
-    "path": "~/R Project/quarto/Test.qmd",
-    "project_path": "Test.qmd",
+    "id": "7501C6BC",
+    "path": "~/R Project/quarto/closeread_test.qmd",
+    "project_path": "closeread_test.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "786850509",
     "contents": "",
     "dirty": false,
-    "created": 1733605666694.0,
+    "created": 1733606374987.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,7",
-        "scrollLine": "0",
-        "chunk_output_type": "console"
+        "cursorPosition": "19,3",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1733606068,
+    "lastKnownWriteTime": 1733606427,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1733606068713,
+    "last_content_update": 1733606427470,
     "read_only": false,
     "read_only_alternatives": []
 }
