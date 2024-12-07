@@ -1,0 +1,45 @@
+---
+title: "Testing Quarto with GitHub"
+author: "Your Name"
+date: "2024-12-07"
+format:
+  html:
+    theme: sketchy
+    toc: true
+    toc-location: left
+    code-fold: true
+    highlight-style: breezedark
+execute:
+  echo: true
+  freeze: auto
+editor_options: 
+  chunk_output_type: console
+---
+
+# Simple summary of built-in dataset
+## Testing R Script
+
+```{r}
+summary(cars)
+
+```
+
+
+## Testing Python Script
+```{python}
+
+# Simple line plot using matplotlib
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4, 5]
+y = [10, 20, 25, 30, 40]
+
+plt.plot(x, y, marker='o', linestyle='--', color='b', label='Data Line')
+plt.title("Simple Line Plot")
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+plt.legend()
+plt.show()
+
+
+```
